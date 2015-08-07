@@ -1,0 +1,866 @@
+.updated.d4p-updated {
+    line-height: 24px;
+    margin: 15px 10px 0 0;
+    padding: 5px 10px;
+}
+
+.gdwft-dialog-hidex .ui-dialog-titlebar button {
+    display: none;
+}
+
+.gdwft-modal-dialog ul.wp-tab-bar {
+    margin: 0 0 5px;
+}
+
+.gdwft-modal-dialog ul.wp-tab-bar > li {
+    padding: 3px 8px 5px;
+    margin: 0 0 6px;
+}
+
+.gdwft-modal-dialog ul.wp-tab-bar .wp-tab-right {
+    float: right;
+    margin: -4px -2px -1px 0;
+}
+.wpv-pre-39 ul.wp-tab-bar > li {
+    padding: 3px 8px 6px;
+}
+
+.gdwft-modal-dialog select,
+.gdwft-modal-dialog textarea,
+.gdwft-modal-dialog input {
+    padding: 3px;
+    width: 100%;
+    margin: 3px 0 10px;
+}
+
+td p.gdwft-font-preview-grid {
+    font-size: 2.2em;
+    line-height: 1.3em;
+    margin: 0;
+}
+
+.wp-list-table.fontfaces .column-weights {
+    min-width: 220px;
+}
+
+.wp-list-table.includes .column-provider {
+    width: 120px;
+}
+
+.wp-list-table.includes .column-weights {
+    min-width: 220px;
+}
+
+.wp-list-table.includes .column-editor {
+    width: 80px;
+}
+
+.d4p-panel-buttons select,
+.d4p-panel-buttons textarea,
+.d4p-panel-buttons input {
+    width: 100%;
+    margin: 3px 0 10px;
+}
+
+.gdwft-fonts-list {
+    height: 200px !important;
+}
+
+.gdwft-preview-panel-controls .minicolors {
+    margin: 0 5px;
+}
+
+.gdwft-preview-panel-controls .minicolors .minicolors-input {
+    vertical-align: auto;
+    height: 26px;
+    margin: 0;
+    font: 13px monospace;
+    border-radius: 0;
+    width: 100px;
+    padding-left: 30px;
+}
+
+.gdwft-preview-panel-controls .minicolors .minicolors-swatch {
+    height: 26px;
+    left: 0px;
+    top: 0px;
+    width: 26px;
+}
+
+.gdwft-preview-panel-font {
+    border-top: 1px solid #dddddd;
+    margin: 5px 0;
+    padding: 5px 0 0;
+}
+
+.gdwft-preview-panel-font {
+    border-bottom: 1px solid #dddddd;
+    border-top: 1px solid #dddddd;
+    margin: 5px 0 10px;
+    padding: 5px 0;
+}
+
+.gdwft-preview-font-type {
+    font-weight: bold;
+}
+
+.gdwft-preview-panel-info {
+    border-bottom: 1px solid #dddddd;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0 0 5px;
+    padding: 0 0 5px;
+    min-height: 75px;
+}
+
+.gdwft-preview-font-extra {
+    color: #999999;
+    font-size: 0.9em;
+}
+
+a.gdwft-variant-italic, 
+a.gdwft-variant-oblique, 
+a.gdwft-variant-normal {
+    display: none;
+}
+
+.gdwft-preview-font-variant a {
+    background-color: #e8e8e8;
+    border-radius: 2px;
+    color: #21759b;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0 1px;
+    padding: 1px 5px;
+    text-decoration: none;
+}
+
+a.gdwft-variant-active {
+    background-color: #21759b !important;
+    color: #e8e8e8 !important;
+}
+
+.gdwft-preview-panel-preview {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    font-size: 11px;
+    margin: 5px 0;
+    overflow: auto;
+    padding: 5px 15px;
+}
+
+.gdwft-preview-panel-preview p {
+    line-height: normal;
+    margin: 5px 0;
+    white-space: nowrap;
+}
+
+.gdwft-preview-panel-usage {
+    border-top: 1px solid #dddddd;
+    font-size: 13px;
+    margin: 10px 0 0;
+    padding: 10px 0 0;
+}
+
+.gdwft-preview-usage-title {
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0 0 5px;
+}
+
+.gdwft-preview-usage-example {
+    background-color: #ffffff;
+    border: 1px dotted #dddddd;
+    display: block;
+    font-family: monospace;
+    padding: 10px;
+}
+
+.gdwft-preview-usage-example-style, 
+.gdwft-preview-usage-example-weight, 
+.gdwft-preview-usage-example-name {
+    color: #990000;
+    font-weight: bold;
+}
+
+.gdwft-rule-box em {
+    margin: 0 0 10px;
+    display: block;
+}
+
+#gdwft-css-block {
+    border: 1px dashed #dddddd;
+    font-family: "Courier New",Courier,"Lucida Sans Typewriter","Lucida Typewriter",monospace;
+    font-size: 13px;
+    min-height: 150px;
+    padding: 10px;
+}
+
+.gdwft-table-preview-full {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.gdwft-rules-settings {
+    padding: 10px;
+    height: 240px;
+}
+
+.gdwft-rules-settings .gdwft-table-preview-full {
+    margin-bottom: 0;
+}
+
+.gdwft-table-preview-full td.gdwft-left {
+    line-height: 30px;
+    padding: 0;
+    width: 25%;
+    vertical-align: top;
+}
+
+.gdwft-table-preview-full td.gdwft-right {
+    vertical-align: top;
+    line-height: 30px;
+    padding: 0;
+    width: 75%;
+}
+
+.gdwft-table-preview-full td.gdwft-right em {
+    display: block;
+    line-height: 22px;
+}
+
+.gdwft-table-preview-full input {
+    font-size: 13px;
+    height: 26px;
+    padding: 3px;
+    width: 100%;
+    margin: 0;
+}
+
+.gdwft-preview-box {
+    border: 1px dashed #aaaaaa;
+    border-radius: 4px;
+    margin: 0;
+    max-height: 280px;
+    min-height: 120px;
+    overflow: auto;
+    padding: 10px;
+}
+
+#gdwft-preview-full .gdwft-preview-box {
+    max-height: 320px;
+    min-height: 160px;
+}
+
+.gdwft-preview-box p {
+    margin: 0;
+}
+
+.gdwft-rule-td-settings strong {
+    display: block;
+}
+
+.gdwft-rule-td-controls ul {
+    margin: 0;
+    padding: 0;
+    width: 210px;
+}
+
+.gdwft-rule-td-controls li {
+    height: 17px;
+    line-height: 17px;
+    float: left;
+    margin: 1px 0;
+    width: 50%;
+}
+
+.gdwft-rule-td-controls li.disabled {
+    color: #cd0a0a;
+}
+
+.gdwft-rule-label {
+    color: #990000;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+.gdwft-rule-source {
+    color: #007700;
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.gdwft-rule-selector {
+    border: 1px dotted #555555;
+    display: block;
+    font-family: Courier,monospace;
+    margin: 0 0 2px;
+    padding: 2px 4px;
+    min-height: 42px;
+    line-height: 19px;
+}
+
+.gdwft-rules-grid tr.gdwft-rule > td {
+    border-bottom: 1px solid #ddd;  
+}
+
+/* editor */
+#gdwft-editor-block-tabs .gdwft-editor-options {
+    height: 220px;
+    overflow: auto;
+    padding: 5px;
+}
+
+.gdwft-editor-options em {
+    display: inline-block;
+    line-height: 18px;
+}
+
+#gdwft-editor-block-tabs .gdwft-editor-controls {
+    background-color: #dfdfdf;
+    height: 22px;
+    padding: 4px 5px;
+}
+
+.gdwft-block-table {
+    width: 100%;
+    line-height: 32px;
+}
+
+.gdwft-editor-controls .gdwft-block-table td {
+    line-height: 20px;
+    padding: 0 !important;
+}
+
+.gdwft-block-table td {
+    padding: 0 0 5px;
+    vertical-align: top;
+}
+
+.gdwft-block-table .gdwft-block-left,
+.gdwft-block-table .gdwft-block-right {
+    width: 49%;
+}
+
+#gdwft-editor-block-tabs .wp-tab-panel {
+    padding: 0;
+    width: 100%;
+    max-height: 260px;
+}
+
+.gdwft-editor-controls input[type="checkbox"] {
+  float: left;
+  height: auto;
+  margin: 5px 4px 0 0;
+  width: auto;
+}
+
+.gdwft-editor-controls .gdwft-block-table td.gdwft-block-right {
+    text-align: right;
+}
+
+#gdwft-editor-block h4,
+#gdwft-editor-block h5 {
+    margin: 0;
+}
+
+#gdwft-editor-block p {
+    margin: 3px 0 0;
+}
+
+#gdwft-editor-block-font h5 {
+    margin: 5px 0 0;
+}
+
+#gdwft-editor-block select {
+    margin: 0;
+    width: 100%;
+}
+
+.gdwft-editor-block-font h5 {
+    line-height: 20px
+}
+
+#gdwft-editor-block h6 {
+    float: left;
+    font-size: 11px;
+    margin: 0 0 0 6px;
+}
+
+.gdwft-values-block div.gdwft-values-block-actual {
+    float: right;
+    width: 200px;
+    margin: 0 0 4px;
+}
+
+.gdwft-values-block .gdwft-size-block {
+    overflow: auto;
+}
+
+.gdwft-size-block.gdwft-size-compact {
+    margin-top: -7px;
+}
+
+.gdwft-values-block .gdwft-size-block input {
+    float: left;
+    line-height: 20px;
+    font-size: 12px;
+    margin: 0;
+    text-align: right;
+    width: 106px;
+}
+
+.gdwft-values-block .gdwft-size-block select {
+    float: right;
+    font-size: 12px;
+    margin: 0 0 0 4px !important;
+    width: 90px !important;
+}
+
+.gdwft-values-main h4 {
+    float: left;
+}
+
+.gdwft-values-main select {
+  float: right;
+  width: 200px !important;
+}
+
+#gdwft-editor-block-font .gdwft-editor-block-font p {
+  font-size: 12px;
+}
+
+.gdwft-block-table .gdwft-block-divider-line {
+    border-left: 1px solid #dddddd;
+    width: 7px;
+}
+
+#gdwft-editor-block-custom .gdwft-block-left,
+#gdwft-editor-block-box_shadows .gdwft-block-left,
+#gdwft-editor-block-shadows .gdwft-block-left {
+    width: 18%;
+}
+
+#gdwft-editor-block-custom .gdwft-block-right,
+#gdwft-editor-block-box_shadows .gdwft-block-right,
+#gdwft-editor-block-shadows .gdwft-block-right {
+    width: 80%;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.gdwft-table-editor-box_shadows .gdwft-block-left,
+.gdwft-table-editor-shadows .gdwft-block-left {
+    font-size: 11px;
+}
+
+.gdwft-table-editor-box_shadows .gdwft-block-left select,
+.gdwft-table-editor-shadows .gdwft-block-left select {
+    font-size: 11px;
+    height: 24px;
+    margin: 2px 0;
+    padding: 3px;
+}
+
+#gdwft-editor-block-custom .gdwft-block-left em,
+.gdwft-table-editor-box_shadows .gdwft-block-left em,
+.gdwft-table-editor-shadows .gdwft-block-left em {
+    font-size: 10px;
+}
+
+#gdwft-editor-custom-styles {
+    height: 205px;
+    max-height: 205px;
+    max-width: 635px;
+    min-height: 20px;
+    min-width: 635px;
+    width: 635px;
+    margin: 0;
+}
+
+/* shadows */
+.gdwft-table-editor-box_shadows ul,
+.gdwft-table-editor-shadows ul {
+    margin: 0;
+}
+
+.gdwft-shadow-item {
+    font-size: 11px;
+    padding: 2px 4px;
+    height: 26px;
+}
+
+.gdwft-shadow-item .gdwft-shadow {
+    float: left;
+    margin: 0 4px 0 0;
+    height: 24px;
+    line-height: 24px;
+}
+
+.gdwft-shadow-item .gdwft-shadow * {
+    float: left;
+}
+
+.gdwft-shadow-item .gdwft-shadow span.gdwft-shadow-label {
+    display: inline-block;
+    margin: 0 3px 0 0;
+}
+
+.gdwft-shadow-item input.gdwft-shadow-value {
+    font-size: 11px;
+    height: 24px;
+    margin: 0;
+    padding: 3px 2px;
+    text-align: right;
+    width: 30px;
+}
+
+.gdwft-shadow-item select.gdwft-shadow-unit {
+    font-size: 11px;
+    height: 24px;
+    margin: 0 1px !important;
+    padding: 0;
+    width: 40px !important;
+}
+
+.gdwft-shadow-item .gdwft-color-preview {
+    background-color: #FFFFFF;
+    font-size: 11px;
+    height: 18px;
+    letter-spacing: -1px;
+    line-height: 16px;
+    white-space: nowrap;
+    width: 126px;
+}
+
+.gdwft-shadow-placeholder {
+    padding: 0 4px 0 0;
+}
+
+.gdwft-shadow-item .gdwft-shadow.gdwft-shadow-buttons {
+    float: right;
+    padding: 1px 0 0;
+    font-size: 10px;
+    margin: 0;
+}
+
+#gdwft-box_shadows-temp,
+#gdwft-shadows-temp {
+    display: none;
+}
+
+#gdwft-shadows .ui-state-error {
+    height: 26px;
+}
+
+.gdwft-table-editor-shadows .gdwft-right textarea {
+    min-height: 140px;
+    width: 580px;
+    max-width: 580px;
+}
+
+#gdwft-editor-block .ui-spinner,
+.gdwft-table-editor .ui-spinner {
+    border: none;
+    float: right;
+    margin: 0 0 0 4px;
+}
+
+#gdwft-editor-block .ui-spinner-input,
+.gdwft-table-editor .ui-spinner-input {
+    height: 22px;
+    margin: 0;
+    padding: 0 2px;
+    font-size: 13px;
+    width: 72px;
+}
+
+#gdwft-editor-block .minicolors-theme-default.minicolors,
+.gdwft-table-grid .minicolors-theme-default.minicolors{
+    display: inline-block;
+    width: auto;
+}
+
+#gdwft-editor-block .minicolors.minicolors-theme-default .minicolors-input,
+.gdwft-table-grid .minicolors.minicolors-theme-default .minicolors-input {
+    height: 28px;
+    padding: 3px 5px 3px 30px;
+    font: 13px monospace;
+    border-radius: 0;
+    width: 106px;
+    float: left;
+    margin: 0;
+}
+
+#gdwft-editor-block .minicolors.minicolors-theme-default .minicolors-panel,
+.gdwft-table-grid .minicolors.minicolors-theme-default .minicolors-panel {
+    top: 30px;
+}
+
+#gdwft-editor-block .minicolors.minicolors-theme-default .minicolors-swatch,
+.gdwft-table-grid .minicolors.minicolors-theme-default .minicolors-swatch {
+    height: 26px;
+    left: 0;
+    top: 0;
+    width: 26px;
+}
+
+#gdwft-box_shadows .minicolors.minicolors-theme-default .minicolors-input,
+#gdwft-shadows .minicolors.minicolors-theme-default .minicolors-input {
+    font-size: 12px;
+    width: 82px;
+    height: 24px;
+    padding: 2px 4px 2px 26px;
+}
+
+#gdwft-box_shadows .minicolors.minicolors-theme-default .minicolors-swatch,
+#gdwft-shadows .minicolors.minicolors-theme-default .minicolors-swatch {
+    height: 22px;
+    width: 22px;
+}
+
+#gdwft-editor-block input.gdwft-editor-settings-opacity {
+    float: right;
+    margin: 0;
+    width: 90px;
+}
+
+.gdwft-shadow-inset {
+    height: 24px !important;
+    width: 16px !important;
+}
+
+.gdwft-table-editor-shadows .minicolors.minicolors-theme-default .minicolors-input {
+    vertical-align: auto;
+    height: 22px;
+    padding: 2px;
+    font: 12px monospace;
+    border-radius: 0;
+    width: 64px;
+}
+
+.gdwft-table-editor-shadows .ui-spinner-input {
+    font-size: 11px;
+    width: 60px;
+}
+
+.gdwft-shadow-item {
+    border: 1px solid #dfdfdf;
+    background-color: #efefef;
+    font-size: 11px;
+    height: 26px;
+    padding: 4px 4px 2px;
+    display: block;
+    margin: 0 0 5px;
+}
+
+.gdwft-shadow i.fa.fa-arrows-v {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    width: 16px;
+}
+
+.gdwft-shadow .gdwft-color-opacity {
+    margin: 0;
+    width: 48px;
+    font-size: 11px;
+}
+
+.gdwft-shadow .gdwft-shadow-inset {
+    margin: 0;
+}
+
+.gdwft-shadow-buttons a {
+    display: inline-block;
+    margin: 0;
+    border: 1px solid #dfdfdf;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.gdwft-shadow-buttons a i {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+}
+
+.gdwft-top-label {
+    display: block;
+    line-height: 24px;
+}
+
+select#gdwft-editor-shadow-load,
+select#gdwft-editor-box_shadows-load {
+    width: 116px !important;
+    float: left;
+}
+
+.gdwft-shadow-load,
+.gdwft-box_shadow-load {
+    background-color: #dfdfdf;
+    float: right;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+}
+
+td.gdwft-rules-dragdrop i.fa {
+    font-size: 30px;
+}
+
+td.gdwft-rules-movicons i.fa {
+    display: block;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+}
+
+.gdwft-move-rule-up,
+.gdwft-move-rule-down {
+    font-size: 22px !important;
+}
+
+.gdwft-rules-dragdrop,
+.gdwft-rules-movicons {
+    display: none
+}
+
+.gdwft-grid-controls {
+    margin: 0 0 10px;
+}
+
+.gdwft-grid-controls > a {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    display: inline-block;
+    font-size: 15px;
+    margin: 0 10px 0 0;
+    outline: medium none;
+    padding: 7px 10px;
+    position: relative;
+    text-decoration: none;
+    white-space: nowrap;
+    width: 220px;
+}
+
+.gdwft-grid-controls > a.ctrl-active {
+    border: 1px solid #ffffff;
+    background-color: #dddddd;
+    font-weight: bold;
+}
+
+.gdwft-rules-grid tbody tr:first-child .gdwft-move-rule-top,
+.gdwft-rules-grid tbody tr:first-child .gdwft-move-rule-up {
+    display: none;
+}
+
+.gdwft-rules-grid tbody tr:last-child .gdwft-move-rule-bottom,
+.gdwft-rules-grid tbody tr:last-child .gdwft-move-rule-down {
+    display: none;
+}
+
+.gdwft-rules-movicons i {
+    cursor: pointer;
+}
+
+.gdwft-rules-grid tr.gdwft-tr-placeholder {
+    height: 84px;
+}
+
+.gdwft-rules-grid tr.ui-sortable-helper {
+    background-color: #FFFFE8;
+    border: 1px solid #dfdfdf;
+}
+
+.gdwft-sh-placeholder {
+    height: 31px;
+    border: 1px dotted #dfdfdf;
+}
+
+.gdwft-preview-included {
+    border-left: 1px solid #dddddd;
+    float: right;
+    min-width: 160px;
+    padding: 0 0 0 10px;
+    text-align: right;
+}
+
+.gdwft-include-status-in,
+.gdwft-include-status-not-in {
+    display: none;
+}
+
+.gdwft-include-status-in {
+    color: #017700;
+}
+
+.gdwft-include-status-not-in {
+    color: #770100;
+}
+
+.gdwft-preview-included div {
+    margin: 5px 0 0;
+    padding: 5px 0 0;
+    border-top: 1px solid #dddddd;
+}
+
+.gdwft-preview-included a {
+    background-color: #21759b;
+    color: #e8e8e8;
+    border-radius: 2px;
+    display: none;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0 1px;
+    padding: 4px 10px;
+    text-decoration: none;
+}
+
+.d4p-page-front .d4p-content .d4p-options-panel.d4p-panel-pro h5 {
+    font-size: 20px;
+}
+
+.d4p-options-panel.d4p-panel-pro {
+    background: #ffdcdc;
+}
+
+table.d4p-plugin-upgrade-prices {
+    margin: 20px 0;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+    width: 100%;
+    line-height: 26px;
+}
+
+table.d4p-plugin-upgrade-prices th {
+    text-align: left;
+}
+
+table.d4p-plugin-upgrade-prices td {
+    text-align: right;
+}
+
+.d4p-pro-promotion {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.d4p-pro-promotion img {
+    border: 1px solid #666;
+    margin: 0 0 16px 0;
+    max-width: 100% !important;
+    height: auto;
+    display: block;
+}
