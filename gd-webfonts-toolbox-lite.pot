@@ -1,0 +1,1899 @@
+#: core/admin.php:22
+msgid "Plugin"
+msgstr ""
+
+#: core/admin.php:31
+msgid "Upgrade to GD WebFonts Toolbox Pro"
+msgstr ""
+
+#: core/admin.php:42
+msgid "Thank you for using this plugin. Please, take a few minutes and check out the GD WebFonts Toolbox Pro plugin with many new and improved features."
+msgstr ""
+
+#: core/admin.php:43
+msgid "Buy GD WebFonts Toolbox Pro version or Dev4Press Plugins Pack and get 15% discount using this coupon"
+msgstr ""
+
+#: core/admin.php:45
+msgid "Plugin Official Page"
+msgstr ""
+
+#: core/admin.php:46
+msgid "Dev4Press Plugins Pack"
+msgstr ""
+
+#: core/admin.php:47
+msgid "Don't display this message anymore"
+msgstr ""
+
+#: core/admin.php:91
+msgid "GD WebFonts Toolbox is activated and it needs to finish installation."
+msgstr ""
+
+#: core/admin.php:92
+msgid "Click Here"
+msgstr ""
+
+#: core/admin.php:99
+msgid "Overview"
+msgstr ""
+
+#: core/admin.php:100
+#: forms/about.php:21
+msgid "About"
+msgstr ""
+
+#: core/admin.php:101
+#: forms/panels/remove.php:15
+#: forms/rules.php:87
+msgid "Selector Rules"
+msgstr ""
+
+#: core/admin.php:102
+msgid "Fonts Include"
+msgstr ""
+
+#: core/admin.php:103
+msgid "Fonts Preview"
+msgstr ""
+
+#: core/admin.php:104
+#: forms/panels/rules.editor.php:80
+#: forms/settings.php:31
+msgid "Settings"
+msgstr ""
+
+#: core/admin.php:105
+#: forms/tools.php:35
+msgid "Tools"
+msgstr ""
+
+#: core/admin.php:107
+msgid "TypeKit Kits (Pro)"
+msgstr ""
+
+#: core/admin.php:108
+msgid "WP Integration (Pro)"
+msgstr ""
+
+#: core/admin.php:109
+msgid "Fonts Upload (Pro)"
+msgstr ""
+
+#: core/admin.php:399
+msgid "Please Wait..."
+msgstr ""
+
+#: core/admin.php:400
+msgid "Are you sure that you want to do this? Operation is not reversable."
+msgstr ""
+
+#: core/admin.php:401
+msgid "Font is in Include list."
+msgstr ""
+
+#: core/admin.php:402
+msgid "Font is not in Include list."
+msgstr ""
+
+#: core/export.php:27
+msgid "Only administrators can use export features."
+msgstr ""
+
+#: core/internal.php:34
+msgid "Apply Important to styles"
+msgstr ""
+
+#: core/internal.php:35
+msgid "For Font Family"
+msgstr ""
+
+#: core/internal.php:35
+msgid "Font familiy for CSS selectors will get important property."
+msgstr ""
+
+#: core/internal.php:36
+msgid "For Style Settings"
+msgstr ""
+
+#: core/internal.php:36
+msgid "All properties for CSS selectors set through selector settings will get important property."
+msgstr ""
+
+#: core/internal.php:40
+msgid "Generated styles cache"
+msgstr ""
+
+#: core/internal.php:41
+msgid "Transient Cache"
+msgstr ""
+
+#: core/internal.php:41
+msgid "Calculated styles and fonts for embedding will be stored in transient cache to speed up each page rendering."
+msgstr ""
+
+#: core/internal.php:42
+msgid "Cache Period"
+msgstr ""
+
+#: core/internal.php:42
+msgid "Period to keep cached styles and used fonts lists."
+msgstr ""
+
+#: core/internal.php:46
+#: forms/panels/preview.switch.php:9
+#: forms/settings.php:13
+msgid "Google Web Fonts"
+msgstr ""
+
+#: core/internal.php:47
+#: core/internal.php:61
+#: forms/panels/about.php:6
+msgid "Status"
+msgstr ""
+
+#: core/internal.php:47
+msgid "This needs to be enabled so you can use Google Web Fonts."
+msgstr ""
+
+#: core/internal.php:49
+#: core/internal.php:63
+msgid "Subsets to load"
+msgstr ""
+
+#: core/internal.php:50
+#: core/internal.php:64
+msgid "Subsets"
+msgstr ""
+
+#: core/internal.php:52
+msgid "Advanced"
+msgstr ""
+
+#: core/internal.php:53
+msgid "WebFont Loader"
+msgstr ""
+
+#: core/internal.php:53
+msgid "Loader is provided for enhanced loading of selected fonts with asynchronious support."
+msgstr ""
+
+#: core/internal.php:55
+msgid "Fonts Auto Update"
+msgstr ""
+
+#: core/internal.php:56
+msgid "Pro Version Only"
+msgstr ""
+
+#: core/internal.php:56
+msgid "Pro version of the plugin can auto update Google Fonts list and get latest fonts available. You need Google API key and to specifiy how often plugin will check for new fonts."
+msgstr ""
+
+#: core/internal.php:60
+#: forms/settings.php:16
+msgid "Adobe Edge Web Fonts"
+msgstr ""
+
+#: core/internal.php:61
+msgid "This needs to be enabled so you can use Adobe Edge Web Fonts."
+msgstr ""
+
+#: core/internal.php:72
+msgid "Latin"
+msgstr ""
+
+#: core/internal.php:73
+msgid "Latin Extended"
+msgstr ""
+
+#: core/internal.php:74
+msgid "Cyrillic"
+msgstr ""
+
+#: core/internal.php:75
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: core/internal.php:76
+msgid "Greek"
+msgstr ""
+
+#: core/internal.php:77
+msgid "Greek Extended"
+msgstr ""
+
+#: core/internal.php:78
+msgid "Khmer"
+msgstr ""
+
+#: core/internal.php:79
+msgid "Vietnamese"
+msgstr ""
+
+#: core/internal.php:80
+msgid "Devanagari"
+msgstr ""
+
+#: core/internal.php:81
+msgid "Telugu"
+msgstr ""
+
+#: core/internal.php:87
+msgid "Default"
+msgstr ""
+
+#: core/internal.php:88
+msgid "All"
+msgstr ""
+
+#: core/plugin.php:128
+msgid "Font Not Found"
+msgstr ""
+
+#: core/plugin.php:146
+#: core/plugin.php:154
+msgid "Sans Serif"
+msgstr ""
+
+#: core/plugin.php:147
+#: core/plugin.php:163
+msgid "Serif"
+msgstr ""
+
+#: core/plugin.php:148
+#: core/plugin.php:169
+msgid "Monospace"
+msgstr ""
+
+#: core/plugin.php:149
+#: core/plugin.php:173
+msgid "Fantasy"
+msgstr ""
+
+#: core/plugin.php:150
+#: core/plugin.php:177
+msgid "Cursive"
+msgstr ""
+
+#: core/plugin.php:203
+msgid "Body"
+msgstr ""
+
+#: core/plugin.php:204
+msgid "Paragraphs"
+msgstr ""
+
+#: core/plugin.php:205
+msgid "Blockquote"
+msgstr ""
+
+#: core/plugin.php:206
+msgid "All Headings"
+msgstr ""
+
+#: core/plugin.php:207
+msgid "Heading: H1"
+msgstr ""
+
+#: core/plugin.php:208
+msgid "Heading: H2"
+msgstr ""
+
+#: core/plugin.php:209
+msgid "Heading: H3"
+msgstr ""
+
+#: core/plugin.php:210
+msgid "Heading: H4"
+msgstr ""
+
+#: core/plugin.php:211
+msgid "Heading: H5"
+msgstr ""
+
+#: core/plugin.php:212
+msgid "Heading: H6"
+msgstr ""
+
+#: core/plugin.php:213
+msgid "Headings: H1/2/3"
+msgstr ""
+
+#: core/plugin.php:214
+msgid "Headings: H4/5/6"
+msgstr ""
+
+#: core/rule.php:200
+#: core/rule.php:206
+#: core/rule.php:329
+#: core/rule.php:338
+#: core/rule.php:371
+#: core/rule.php:401
+#: core/rule.php:407
+#: core/rule.php:413
+#: core/rule.php:419
+#: core/rule.php:425
+#: core/rule.php:460
+#: forms/panels/rules.editor.php:4
+msgid "None"
+msgstr ""
+
+#: core/rule.php:201
+#: core/rule.php:214
+#: core/rule.php:228
+#: core/rule.php:233
+#: core/rule.php:238
+#: core/rule.php:247
+#: core/rule.php:253
+#: core/rule.php:259
+#: core/rule.php:264
+#: core/rule.php:275
+#: core/rule.php:282
+#: core/rule.php:293
+#: core/rule.php:297
+#: core/rule.php:303
+#: core/rule.php:320
+#: core/rule.php:328
+#: core/rule.php:337
+#: core/rule.php:348
+#: core/rule.php:352
+#: core/rule.php:359
+#: core/rule.php:367
+#: core/rule.php:388
+#: core/rule.php:394
+#: core/rule.php:400
+#: core/rule.php:406
+#: core/rule.php:412
+#: core/rule.php:418
+#: core/rule.php:424
+#: core/rule.php:432
+#: core/rule.php:439
+#: core/rule.php:445
+#: core/rule.php:452
+#: core/selector.php:422
+#: forms/panels/rules.editor.php:97
+msgid "Inherit"
+msgstr ""
+
+#: core/rule.php:202
+#: core/selector.php:425
+msgid "Generic"
+msgstr ""
+
+#: core/rule.php:203
+msgid "Stack"
+msgstr ""
+
+#: core/rule.php:212
+#: core/rule.php:226
+#: core/rule.php:231
+#: core/rule.php:237
+#: core/rule.php:245
+#: core/rule.php:251
+#: core/rule.php:257
+#: core/rule.php:262
+#: core/rule.php:274
+#: core/rule.php:281
+#: core/rule.php:290
+#: core/rule.php:296
+#: core/rule.php:302
+#: core/rule.php:319
+#: core/rule.php:327
+#: core/rule.php:336
+#: core/rule.php:346
+#: core/rule.php:351
+#: core/rule.php:358
+#: core/rule.php:366
+#: core/rule.php:386
+#: core/rule.php:392
+#: core/rule.php:398
+#: core/rule.php:404
+#: core/rule.php:410
+#: core/rule.php:416
+#: core/rule.php:422
+#: core/rule.php:428
+#: core/rule.php:435
+#: core/rule.php:442
+#: core/rule.php:448
+msgid "Not Set"
+msgstr ""
+
+#: core/rule.php:213
+#: core/rule.php:227
+#: core/rule.php:232
+#: core/rule.php:246
+#: core/rule.php:252
+#: core/rule.php:258
+#: core/rule.php:263
+#: core/rule.php:347
+#: core/rule.php:387
+#: core/rule.php:393
+#: core/rule.php:399
+#: core/rule.php:405
+#: core/rule.php:411
+#: core/rule.php:417
+#: core/rule.php:423
+#: core/rule.php:429
+#: core/rule.php:436
+#: core/rule.php:443
+#: core/rule.php:449
+#: forms/panels/rules.editor.php:79
+msgid "Custom"
+msgstr ""
+
+#: core/rule.php:215
+#: core/rule.php:389
+#: core/rule.php:395
+msgid "Auto"
+msgstr ""
+
+#: core/rule.php:216
+msgid "Baseline"
+msgstr ""
+
+#: core/rule.php:217
+msgid "Sup"
+msgstr ""
+
+#: core/rule.php:218
+msgid "Super"
+msgstr ""
+
+#: core/rule.php:219
+msgid "Top"
+msgstr ""
+
+#: core/rule.php:220
+msgid "Text Top"
+msgstr ""
+
+#: core/rule.php:221
+msgid "Middle"
+msgstr ""
+
+#: core/rule.php:222
+msgid "Bottom"
+msgstr ""
+
+#: core/rule.php:223
+msgid "Text Bottom"
+msgstr ""
+
+#: core/rule.php:234
+#: core/rule.php:240
+#: core/rule.php:248
+#: core/rule.php:254
+#: core/rule.php:276
+#: core/rule.php:283
+#: core/rule.php:298
+#: core/rule.php:304
+#: forms/panels/preview.display.php:36
+#: grids/include-fonts.php:60
+msgid "Normal"
+msgstr ""
+
+#: core/rule.php:239
+#: core/rule.php:353
+#: core/rule.php:360
+msgid "Initial"
+msgstr ""
+
+#: core/rule.php:241
+msgid "Break All"
+msgstr ""
+
+#: core/rule.php:242
+msgid "Keep All"
+msgstr ""
+
+#: core/rule.php:265
+msgid "XX Small"
+msgstr ""
+
+#: core/rule.php:266
+msgid "X Small"
+msgstr ""
+
+#: core/rule.php:267
+msgid "Small"
+msgstr ""
+
+#: core/rule.php:268
+msgid "Medium"
+msgstr ""
+
+#: core/rule.php:269
+msgid "Large"
+msgstr ""
+
+#: core/rule.php:270
+msgid "X Large"
+msgstr ""
+
+#: core/rule.php:271
+msgid "XX Large"
+msgstr ""
+
+#: core/rule.php:277
+#: forms/panels/preview.display.php:50
+#: grids/include-fonts.php:62
+msgid "Italic"
+msgstr ""
+
+#: core/rule.php:278
+#: forms/panels/preview.display.php:64
+#: grids/include-fonts.php:65
+msgid "Oblique"
+msgstr ""
+
+#: core/rule.php:284
+msgid "Pre"
+msgstr ""
+
+#: core/rule.php:285
+msgid "Pre Warp"
+msgstr ""
+
+#: core/rule.php:286
+msgid "Pre Line"
+msgstr ""
+
+#: core/rule.php:287
+msgid "No Wrap"
+msgstr ""
+
+#: core/rule.php:291
+msgid "Left To Right"
+msgstr ""
+
+#: core/rule.php:292
+msgid "Right To Left"
+msgstr ""
+
+#: core/rule.php:299
+msgid "Small Caps"
+msgstr ""
+
+#: core/rule.php:305
+msgid "Bolder"
+msgstr ""
+
+#: core/rule.php:306
+msgid "Lighter"
+msgstr ""
+
+#: core/rule.php:307
+msgid "Bold"
+msgstr ""
+
+#: core/rule.php:308
+msgid "Bold: 100"
+msgstr ""
+
+#: core/rule.php:309
+msgid "Bold: 200"
+msgstr ""
+
+#: core/rule.php:310
+msgid "Bold: 300"
+msgstr ""
+
+#: core/rule.php:311
+msgid "Bold: 400"
+msgstr ""
+
+#: core/rule.php:312
+msgid "Bold: 500"
+msgstr ""
+
+#: core/rule.php:313
+msgid "Bold: 600"
+msgstr ""
+
+#: core/rule.php:314
+msgid "Bold: 700"
+msgstr ""
+
+#: core/rule.php:315
+msgid "Bold: 800"
+msgstr ""
+
+#: core/rule.php:316
+msgid "Bold: 900"
+msgstr ""
+
+#: core/rule.php:321
+#: core/rule.php:361
+msgid "Left"
+msgstr ""
+
+#: core/rule.php:322
+#: core/rule.php:362
+msgid "Right"
+msgstr ""
+
+#: core/rule.php:323
+msgid "Center"
+msgstr ""
+
+#: core/rule.php:324
+msgid "Justify"
+msgstr ""
+
+#: core/rule.php:330
+msgid "Underline"
+msgstr ""
+
+#: core/rule.php:331
+msgid "Overline"
+msgstr ""
+
+#: core/rule.php:332
+msgid "Line Through"
+msgstr ""
+
+#: core/rule.php:333
+msgid "Blink"
+msgstr ""
+
+#: core/rule.php:339
+msgid "Capitalize"
+msgstr ""
+
+#: core/rule.php:340
+msgid "Upper Case"
+msgstr ""
+
+#: core/rule.php:341
+msgid "Lower Case"
+msgstr ""
+
+#: core/rule.php:354
+msgid "Content Box"
+msgstr ""
+
+#: core/rule.php:355
+msgid "Border Box"
+msgstr ""
+
+#: core/rule.php:363
+msgid "Both"
+msgstr ""
+
+#: core/rule.php:368
+#: forms/rules.php:38
+msgid "Block"
+msgstr ""
+
+#: core/rule.php:369
+#: forms/rules.php:37
+msgid "Inline"
+msgstr ""
+
+#: core/rule.php:370
+msgid "Inline Block"
+msgstr ""
+
+#: core/rule.php:372
+msgid "List Item"
+msgstr ""
+
+#: core/rule.php:373
+msgid "Run In"
+msgstr ""
+
+#: core/rule.php:374
+msgid "Table"
+msgstr ""
+
+#: core/rule.php:375
+msgid "Inline Table"
+msgstr ""
+
+#: core/rule.php:376
+msgid "Table Row Group"
+msgstr ""
+
+#: core/rule.php:377
+msgid "Table Header Group"
+msgstr ""
+
+#: core/rule.php:378
+msgid "Table Footer Group"
+msgstr ""
+
+#: core/rule.php:379
+msgid "Table Row"
+msgstr ""
+
+#: core/rule.php:380
+msgid "Table Column Group"
+msgstr ""
+
+#: core/rule.php:381
+msgid "Table Column"
+msgstr ""
+
+#: core/rule.php:382
+msgid "Table Cell"
+msgstr ""
+
+#: core/rule.php:383
+msgid "Table Caption"
+msgstr ""
+
+#: core/rule.php:430
+#: core/rule.php:437
+#: core/rule.php:450
+msgid "Custom, Pairs"
+msgstr ""
+
+#: core/rule.php:431
+#: core/rule.php:438
+msgid "Custom, All"
+msgstr ""
+
+#: core/rule.php:444
+#: core/rule.php:451
+msgid "Custom, Each"
+msgstr ""
+
+#: core/rule.php:461
+#: forms/panels/rules.editor.php:5
+msgid "Solid"
+msgstr ""
+
+#: core/rule.php:462
+#: forms/panels/rules.editor.php:6
+msgid "Dotted"
+msgstr ""
+
+#: core/rule.php:463
+#: forms/panels/rules.editor.php:7
+msgid "Dashed"
+msgstr ""
+
+#: core/rule.php:464
+#: forms/panels/rules.editor.php:8
+msgid "Double"
+msgstr ""
+
+#: core/rule.php:465
+#: forms/panels/rules.editor.php:9
+msgid "Groove"
+msgstr ""
+
+#: core/rule.php:466
+#: forms/panels/rules.editor.php:10
+msgid "Ridge"
+msgstr ""
+
+#: core/rule.php:467
+#: forms/panels/rules.editor.php:11
+msgid "Inset"
+msgstr ""
+
+#: core/rule.php:468
+#: forms/panels/rules.editor.php:12
+msgid "Outset"
+msgstr ""
+
+#: core/selector.php:149
+msgid "Font with Loader"
+msgstr ""
+
+#: core/selector.php:151
+#: forms/panels/rules.display.php:64
+#: forms/panels/rules.editor.php:72
+msgid "Font"
+msgstr ""
+
+#: core/selector.php:156
+msgid "Styles"
+msgstr ""
+
+#: core/selector.php:387
+#: forms/rules.php:43
+msgid "Default Selector"
+msgstr ""
+
+#: core/selector.php:390
+#: forms/rules.php:44
+msgid "Custom Selector"
+msgstr ""
+
+#: core/selector.php:393
+msgid "For Editor Integration"
+msgstr ""
+
+#: core/selector.php:401
+msgid "Theme Specific"
+msgstr ""
+
+#: core/selector.php:405
+msgid "Plugin Specific"
+msgstr ""
+
+#: core/selector.php:428
+msgid "Standard"
+msgstr ""
+
+#: core/selector.php:431
+#: forms/panels/include.switch.php:8
+#: forms/panels/rules.editor.php:109
+#: forms/panels/rules.editor.php:47
+#: forms/include.php:9
+#: forms/preview.php:9
+msgid "Google Web Font"
+msgstr ""
+
+#: core/selector.php:434
+#: core/selector.php:446
+#: core/selector.php:458
+#: core/selector.php:470
+msgid "missing"
+msgstr ""
+
+#: core/selector.php:443
+#: forms/panels/include.switch.php:13
+#: forms/panels/rules.editor.php:113
+#: forms/panels/rules.editor.php:51
+#: forms/include.php:13
+#: forms/preview.php:13
+msgid "Adobe Web Font"
+msgstr ""
+
+#: core/selector.php:455
+#: forms/panels/rules.editor.php:117
+#: forms/panels/rules.editor.php:55
+msgid "TypeKit Font"
+msgstr ""
+
+#: core/selector.php:467
+#: forms/panels/include.switch.php:23
+#: forms/panels/rules.editor.php:121
+#: forms/panels/rules.editor.php:59
+msgid "FontFace Font"
+msgstr ""
+
+#: core/settings.php:340
+msgid "Rule with provided ID is missing."
+msgstr ""
+
+#: forms/panels/about.php:4
+#: forms/panels/changelog.php:1
+#: forms/front.php:19
+msgid "Version"
+msgstr ""
+
+#: forms/panels/about.php:5
+msgid "Date"
+msgstr ""
+
+#: forms/panels/about.php:7
+msgid "Build"
+msgstr ""
+
+#: forms/panels/about.php:16
+msgid "Main Website"
+msgstr ""
+
+#: forms/panels/about.php:17
+msgid "On Dev4Press"
+msgstr ""
+
+#: forms/panels/cache.php:1
+#: forms/panels/export.php:3
+#: forms/panels/import.php:1
+#: forms/panels/remove.php:1
+msgid "Important"
+msgstr ""
+
+#: forms/panels/cache.php:3
+msgid "This tool will remove all data cached by the plugin: TypeKit kits, Google Web Fonts and build selectors styles."
+msgstr ""
+
+#: forms/panels/cache.php:4
+msgid "This is safe operation, and data will be recreated automatically when requested."
+msgstr ""
+
+#: forms/panels/cache.php:8
+msgid "Confirm the operation"
+msgstr ""
+
+#: forms/panels/cache.php:11
+msgid "Clear all cached data"
+msgstr ""
+
+#: forms/panels/dev4press.php:1
+msgid "Plugins"
+msgstr ""
+
+#: forms/panels/export.php:5
+msgid "With this tool you export all plugin settings (including rules and fonts to include) into plain text file (PHP serialized content). Do not modify export file, any change you make can make it unusable."
+msgstr ""
+
+#: forms/panels/import.php:3
+msgid "With this tool you import all plugin settings from plain text file made using the Export tool. If you made changes to this file, it is very likely that import will fail."
+msgstr ""
+
+#: forms/panels/import.php:8
+msgid "Import File"
+msgstr ""
+
+#: forms/panels/import.php:10
+msgid "Select file you want to import"
+msgstr ""
+
+#: forms/panels/include.switch.php:3
+#: forms/panels/preview.switch.php:0
+msgid "Select Provider"
+msgstr ""
+
+#: forms/panels/include.switch.php:18
+#: forms/panels/preview.switch.php:49
+msgid "TypeKit Fonts"
+msgstr ""
+
+#: forms/panels/include.switch.php:28
+msgid "Add New Font"
+msgstr ""
+
+#: forms/panels/preview.display.php:4
+msgid "Back"
+msgstr ""
+
+#: forms/panels/preview.display.php:8
+msgid "Front"
+msgstr ""
+
+#: forms/panels/preview.display.php:13
+#: forms/panels/rules.editor.php:73
+msgid "Text"
+msgstr ""
+
+#: forms/panels/preview.display.php:22
+msgid "In Include list"
+msgstr ""
+
+#: forms/panels/preview.display.php:23
+msgid "Not in Include list"
+msgstr ""
+
+#: forms/panels/preview.display.php:25
+msgid "Add to List"
+msgstr ""
+
+#: forms/panels/preview.display.php:26
+msgid "Remove from list"
+msgstr ""
+
+#: forms/panels/preview.display.php:31
+msgid "Font Family Name"
+msgstr ""
+
+#: forms/panels/preview.display.php:32
+msgid "Font Category"
+msgstr ""
+
+#: forms/panels/preview.display.php:90
+msgid "Usage Example"
+msgstr ""
+
+#: forms/panels/preview.switch.php:15
+#: forms/panels/preview.switch.php:41
+#: forms/panels/preview.switch.php:55
+#: forms/panels/preview.switch.php:69
+msgid "Total Fonts"
+msgstr ""
+
+#: forms/panels/preview.switch.php:35
+msgid "Adobe Web Fonts"
+msgstr ""
+
+#: forms/panels/preview.switch.php:63
+msgid "FontFace Fonts"
+msgstr ""
+
+#: forms/panels/preview.switch.php:20
+msgid "Last Update"
+msgstr ""
+
+#: forms/panels/preview.switch.php:24
+msgid "Auto update available in Pro version."
+msgstr ""
+
+#: forms/panels/remove.php:3
+msgid "This tool can remove plugin settings saved in the WordPress options table."
+msgstr ""
+
+#: forms/panels/remove.php:4
+msgid "Deletion operations are not reversible, and it is recommended to create database backup (or at least options table) before proceeding with this tool, if you later change your mind. You can also export plugin settings using own Export tools."
+msgstr ""
+
+#: forms/panels/remove.php:5
+msgid "If you choose to remove plugin settings, that will also reinitialize all plugin settings to default values."
+msgstr ""
+
+#: forms/panels/remove.php:9
+msgid "Choose what you want to delete"
+msgstr ""
+
+#: forms/panels/remove.php:12
+msgid "Plugin Settings"
+msgstr ""
+
+#: forms/panels/remove.php:18
+msgid "Fonts To Include"
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:1
+msgid "Preview CSS"
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:7
+msgid "Preview Font, Settings, Shadows and Custom CSS"
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:11
+#: forms/panels/rules.editor.php:779
+msgid "Text for preview"
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:23
+msgid "Edit Rule Selector"
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:30
+#: forms/panels/rules.switch.php:8
+#: forms/panels/rules.switch.php:17
+msgid "Label"
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:35
+#: forms/panels/rules.dialogs.php:58
+#: forms/panels/rules.display.php:62
+#: forms/panels/rules.switch.php:11
+#: forms/panels/rules.switch.php:37
+#: forms/rules.php:39
+msgid "Selector"
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:38
+#: forms/panels/rules.switch.php:14
+msgid "Both Label and Selector are required."
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:41
+#: forms/panels/rules.switch.php:20
+msgid "Class Name"
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:44
+#: forms/panels/rules.switch.php:23
+msgid "Method"
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:48
+#: forms/panels/rules.switch.php:27
+msgid "Inline Tag"
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:53
+#: forms/panels/rules.switch.php:32
+msgid "Block Tag"
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:62
+msgid "If you change class name and / or method used, previously used selectors in posts will loose their styles."
+msgstr ""
+
+#: forms/panels/rules.dialogs.php:15
+#: forms/panels/rules.editor.php:783
+msgid "You can use %s inside the text for preview to break text into lines."
+msgstr ""
+
+#: forms/panels/rules.display.php:49
+msgid "Drag'n'Drop Reorder"
+msgstr ""
+
+#: forms/panels/rules.display.php:50
+msgid "Arrows Reorder"
+msgstr ""
+
+#: forms/panels/rules.display.php:65
+msgid "Active Styles"
+msgstr ""
+
+#: forms/panels/rules.display.php:73
+msgid "There are no rules created yet."
+msgstr ""
+
+#: forms/panels/rules.display.php:75
+msgid "Use controls on the left to add new rules."
+msgstr ""
+
+#: forms/panels/rules.display.php:13
+msgid "Edit"
+msgstr ""
+
+#: forms/panels/rules.display.php:14
+msgid "Copy"
+msgstr ""
+
+#: forms/panels/rules.display.php:17
+msgid "Disable"
+msgstr ""
+
+#: forms/panels/rules.display.php:19
+msgid "Enable"
+msgstr ""
+
+#: forms/panels/rules.display.php:22
+msgid "Delete"
+msgstr ""
+
+#: forms/panels/rules.display.php:28
+msgid "Style"
+msgstr ""
+
+#: forms/panels/rules.display.php:29
+#: forms/preview.php:67
+msgid "Preview"
+msgstr ""
+
+#: forms/panels/rules.display.php:30
+msgid "CSS"
+msgstr ""
+
+#: forms/panels/rules.display.php:31
+msgid "Reset"
+msgstr ""
+
+#: forms/panels/rules.editor.php:64
+msgid "Selector Rule Editor"
+msgstr ""
+
+#: forms/panels/rules.editor.php:74
+msgid "Text Position"
+msgstr ""
+
+#: forms/panels/rules.editor.php:75
+msgid "Box"
+msgstr ""
+
+#: forms/panels/rules.editor.php:76
+msgid "Box Size"
+msgstr ""
+
+#: forms/panels/rules.editor.php:77
+msgid "Text Shadow"
+msgstr ""
+
+#: forms/panels/rules.editor.php:78
+msgid "Box Shadow"
+msgstr ""
+
+#: forms/panels/rules.editor.php:88
+#: grids/include-fonts.php:25
+msgid "Font Family"
+msgstr ""
+
+#: forms/panels/rules.editor.php:93
+msgid "Nothing Set"
+msgstr ""
+
+#: forms/panels/rules.editor.php:94
+msgid "Font familiy will not be set for this selector."
+msgstr ""
+
+#: forms/panels/rules.editor.php:98
+msgid "Set font family value to inherit."
+msgstr ""
+
+#: forms/panels/rules.editor.php:101
+msgid "Standard Stack"
+msgstr ""
+
+#: forms/panels/rules.editor.php:105
+msgid "These fonts combinations should work with most browsers on most operating systems."
+msgstr ""
+
+#: forms/panels/rules.editor.php:125
+#: forms/panels/rules.editor.php:129
+msgid "Generic Familiy"
+msgstr ""
+
+#: forms/panels/rules.editor.php:136
+msgid "Font Style"
+msgstr ""
+
+#: forms/panels/rules.editor.php:142
+msgid "Font Variant"
+msgstr ""
+
+#: forms/panels/rules.editor.php:148
+msgid "Font Weight"
+msgstr ""
+
+#: forms/panels/rules.editor.php:154
+msgid "Font Size"
+msgstr ""
+
+#: forms/panels/rules.editor.php:159
+#: forms/panels/rules.editor.php:196
+#: forms/panels/rules.editor.php:210
+#: forms/panels/rules.editor.php:223
+#: forms/panels/rules.editor.php:238
+#: forms/panels/rules.editor.php:305
+#: forms/panels/rules.editor.php:326
+#: forms/panels/rules.editor.php:359
+#: forms/panels/rules.editor.php:373
+#: forms/panels/rules.editor.php:632
+#: forms/panels/rules.editor.php:645
+#: forms/panels/rules.editor.php:658
+#: forms/panels/rules.editor.php:673
+#: forms/panels/rules.editor.php:686
+#: forms/panels/rules.editor.php:699
+msgid "Custom Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:174
+msgid "Font Styles Active"
+msgstr ""
+
+#: forms/panels/rules.editor.php:179
+msgid "Reset Font Settings"
+msgstr ""
+
+#: forms/panels/rules.editor.php:191
+msgid "Color"
+msgstr ""
+
+#: forms/panels/rules.editor.php:205
+msgid "Line Height"
+msgstr ""
+
+#: forms/panels/rules.editor.php:218
+msgid "Word Spacing"
+msgstr ""
+
+#: forms/panels/rules.editor.php:233
+msgid "Letter Spacing"
+msgstr ""
+
+#: forms/panels/rules.editor.php:246
+msgid "White Space"
+msgstr ""
+
+#: forms/panels/rules.editor.php:252
+msgid "Text Decoration"
+msgstr ""
+
+#: forms/panels/rules.editor.php:258
+msgid "Text Transform"
+msgstr ""
+
+#: forms/panels/rules.editor.php:264
+msgid "Word Break"
+msgstr ""
+
+#: forms/panels/rules.editor.php:277
+msgid "Text and Text Position Active"
+msgstr ""
+
+#: forms/panels/rules.editor.php:282
+msgid "Reset Text Settings"
+msgstr ""
+
+#: forms/panels/rules.editor.php:294
+msgid "Text Align"
+msgstr ""
+
+#: forms/panels/rules.editor.php:300
+msgid "Vertical Align"
+msgstr ""
+
+#: forms/panels/rules.editor.php:315
+msgid "Direction"
+msgstr ""
+
+#: forms/panels/rules.editor.php:321
+msgid "Indent"
+msgstr ""
+
+#: forms/panels/rules.editor.php:342
+msgid "Reset Text Position Settings"
+msgstr ""
+
+#: forms/panels/rules.editor.php:354
+msgid "Background"
+msgstr ""
+
+#: forms/panels/rules.editor.php:368
+msgid "Outline"
+msgstr ""
+
+#: forms/panels/rules.editor.php:385
+msgid "Border"
+msgstr ""
+
+#: forms/panels/rules.editor.php:390
+msgid "Border Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:401
+#: forms/panels/rules.editor.php:480
+#: forms/panels/rules.editor.php:527
+msgid "Top/Bottom Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:409
+#: forms/panels/rules.editor.php:485
+#: forms/panels/rules.editor.php:532
+msgid "Left/Right Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:419
+#: forms/panels/rules.editor.php:492
+#: forms/panels/rules.editor.php:539
+msgid "Top Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:427
+#: forms/panels/rules.editor.php:497
+#: forms/panels/rules.editor.php:544
+msgid "Right Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:435
+#: forms/panels/rules.editor.php:502
+#: forms/panels/rules.editor.php:549
+msgid "Bottom Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:443
+#: forms/panels/rules.editor.php:507
+#: forms/panels/rules.editor.php:554
+msgid "Left Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:454
+msgid "Display"
+msgstr ""
+
+#: forms/panels/rules.editor.php:460
+#: forms/tools.php:8
+msgid "Clear"
+msgstr ""
+
+#: forms/panels/rules.editor.php:468
+msgid "Margin"
+msgstr ""
+
+#: forms/panels/rules.editor.php:473
+msgid "Margin Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:515
+msgid "Padding"
+msgstr ""
+
+#: forms/panels/rules.editor.php:520
+msgid "Padding Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:562
+msgid "Border Radius"
+msgstr ""
+
+#: forms/panels/rules.editor.php:567
+msgid "Radius Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:574
+msgid "Top-Left Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:579
+msgid "Top-Right Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:584
+msgid "Bottom-Right Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:589
+msgid "Bottom-Left Value"
+msgstr ""
+
+#: forms/panels/rules.editor.php:604
+msgid "Box and Box Size Active"
+msgstr ""
+
+#: forms/panels/rules.editor.php:609
+msgid "Reset Box Model Settings"
+msgstr ""
+
+#: forms/panels/rules.editor.php:621
+msgid "Box Sizing"
+msgstr ""
+
+#: forms/panels/rules.editor.php:627
+msgid "Width"
+msgstr ""
+
+#: forms/panels/rules.editor.php:640
+msgid "Min Width"
+msgstr ""
+
+#: forms/panels/rules.editor.php:653
+msgid "Max Width"
+msgstr ""
+
+#: forms/panels/rules.editor.php:668
+msgid "Height"
+msgstr ""
+
+#: forms/panels/rules.editor.php:681
+msgid "Min Height"
+msgstr ""
+
+#: forms/panels/rules.editor.php:694
+msgid "Max Height"
+msgstr ""
+
+#: forms/panels/rules.editor.php:716
+msgid "Reset Box Size Settings"
+msgstr ""
+
+#: forms/panels/rules.editor.php:748
+msgid "You can add any number of CSS style properties. These properties will be added to the rule for the selector. Each property must end with semi-colon (;) just like in the real CSS file."
+msgstr ""
+
+#: forms/panels/rules.editor.php:763
+msgid "Custom Styles Active"
+msgstr ""
+
+#: forms/panels/rules.editor.php:768
+msgid "Reset Custom CSS"
+msgstr ""
+
+#: forms/panels/rules.switch.php:4
+msgid "Select Rule Type"
+msgstr ""
+
+#: forms/panels/rules.switch.php:41
+msgid "Label and Class Name are required."
+msgstr ""
+
+#: forms/panels/rules.switch.php:41
+msgid "Class name consists of alphanumeric characters, underscore and hyphen."
+msgstr ""
+
+#: forms/panels/rules.switch.php:41
+msgid "More on the different methods you can find in documentation."
+msgstr ""
+
+#: forms/panels/rules.switch.php:44
+msgid "Default Rules"
+msgstr ""
+
+#: forms/panels/rules.switch.php:49
+msgid "Current Theme Rules"
+msgstr ""
+
+#: forms/panels/rules.switch.php:54
+msgid "Active Plugins Rules"
+msgstr ""
+
+#: forms/panels/rules.switch.php:60
+msgid "Copy Settings From"
+msgstr ""
+
+#: forms/panels/rules.switch.php:64
+msgid "Add New Rule"
+msgstr ""
+
+#: forms/shared/dialogs.php:1
+msgid "Please wait..."
+msgstr ""
+
+#: forms/shared/dialogs.php:3
+msgid "Data saving in progress, please wait..."
+msgstr ""
+
+#: forms/shared/dialogs.php:7
+msgid "Are you sure?"
+msgstr ""
+
+#: forms/shared/dialogs.php:9
+msgid "Are you sure you want to proceed? This operation is not reversable!"
+msgstr ""
+
+#: forms/shared/top.php:30
+msgid "Rule is updated."
+msgstr ""
+
+#: forms/shared/top.php:33
+msgid "New rule added."
+msgstr ""
+
+#: forms/shared/top.php:36
+msgid "Rule reset completed."
+msgstr ""
+
+#: forms/shared/top.php:39
+msgid "Rule is now disabled."
+msgstr ""
+
+#: forms/shared/top.php:42
+msgid "Rule is now enabled."
+msgstr ""
+
+#: forms/shared/top.php:45
+msgid "Rule is now deleted."
+msgstr ""
+
+#: forms/shared/top.php:48
+msgid "TypeKit kits data is reloaded."
+msgstr ""
+
+#: forms/shared/top.php:51
+msgid "Font removed from include list."
+msgstr ""
+
+#: forms/shared/top.php:54
+msgid "Included font editor status updated."
+msgstr ""
+
+#: forms/shared/top.php:57
+msgid "Font added to include list."
+msgstr ""
+
+#: forms/shared/top.php:60
+msgid "Font is already on include list."
+msgstr ""
+
+#: forms/shared/top.php:63
+#: forms/shared/top.php:69
+msgid "File upload failed."
+msgstr ""
+
+#: forms/shared/top.php:66
+msgid "File upload is uploaded and unpacked."
+msgstr ""
+
+#: forms/shared/top.php:72
+msgid "Fonts directory scan completed."
+msgstr ""
+
+#: forms/shared/top.php:75
+msgid "Settings are saved."
+msgstr ""
+
+#: forms/shared/top.php:78
+msgid "Removal operation completed."
+msgstr ""
+
+#: forms/shared/top.php:81
+msgid "All cache is cleared."
+msgstr ""
+
+#: forms/shared/top.php:84
+msgid "Nothing was selected for removal."
+msgstr ""
+
+#: forms/shared/top.php:87
+msgid "Import operation completed."
+msgstr ""
+
+#: forms/shared/top.php:90
+msgid "Nothing done."
+msgstr ""
+
+#: forms/about.php:4
+msgid "About Plugin"
+msgstr ""
+
+#: forms/about.php:5
+msgid "Get more information about this plugin."
+msgstr ""
+
+#: forms/about.php:7
+msgid "Changelog"
+msgstr ""
+
+#: forms/about.php:8
+msgid "Check out full changelog for this plugin."
+msgstr ""
+
+#: forms/about.php:10
+msgid "Dev4Press"
+msgstr ""
+
+#: forms/about.php:11
+msgid "Check out other Dev4Press products."
+msgstr ""
+
+#: forms/editor.php:9
+msgid "WordPress Integration"
+msgstr ""
+
+#: forms/editor.php:12
+msgid "You can control integration of web fonts into WordPress TinyMCE rich text editor."
+msgstr ""
+
+#: forms/editor.php:15
+#: forms/typekit.php:15
+#: forms/upload.php:15
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: forms/front.php:56
+msgid "Open"
+msgstr ""
+
+#: forms/include.php:21
+msgid "Include"
+msgstr ""
+
+#: forms/include.php:24
+msgid "You can also load web fonts without assigning them to selector rules. This way you can load web fonts that will be used in your own CSS files"
+msgstr ""
+
+#: forms/install.php:15
+msgid "Installation"
+msgstr ""
+
+#: forms/install.php:18
+msgid "Before you continue, make sure plugin installation was successful."
+msgstr ""
+
+#: forms/install.php:29
+#: forms/update.php:29
+msgid "All Done"
+msgstr ""
+
+#: forms/install.php:32
+msgid "Installation completed."
+msgstr ""
+
+#: forms/install.php:35
+#: forms/update.php:35
+msgid "Click here to continue."
+msgstr ""
+
+#: forms/preview.php:70
+msgid "You can easily preview every font plugin currently has."
+msgstr ""
+
+#: forms/rules.php:90
+msgid "Here you can add new rule and control all the selector styles."
+msgstr ""
+
+#: forms/rules.php:48
+msgid "From Current Theme"
+msgstr ""
+
+#: forms/rules.php:52
+msgid "From Active Plugins"
+msgstr ""
+
+#: forms/rules.php:58
+msgid "Add with empty settings"
+msgstr ""
+
+#: forms/settings.php:41
+msgid "Save Settings"
+msgstr ""
+
+#: forms/settings.php:44
+msgid "Return to top"
+msgstr ""
+
+#: forms/settings.php:64
+msgid "Settings Panel"
+msgstr ""
+
+#: forms/settings.php:4
+msgid "Settings Index"
+msgstr ""
+
+#: forms/settings.php:5
+msgid "All plugin settings are split into several panels, and you access each starting from the right."
+msgstr ""
+
+#: forms/settings.php:7
+msgid "Selectors"
+msgstr ""
+
+#: forms/settings.php:8
+msgid "With these settings you can control how the selectors styles are built."
+msgstr ""
+
+#: forms/settings.php:10
+msgid "Cache"
+msgstr ""
+
+#: forms/settings.php:11
+msgid "These are settings for control over built styles as embeded transient records."
+msgstr ""
+
+#: forms/settings.php:14
+msgid "These are settings for control over Google Web Fonts."
+msgstr ""
+
+#: forms/settings.php:17
+msgid "These are settings for control over Adobe Edge Web Fonts."
+msgstr ""
+
+#: forms/tools.php:64
+msgid "Tools Panel"
+msgstr ""
+
+#: forms/tools.php:4
+msgid "Tools Index"
+msgstr ""
+
+#: forms/tools.php:5
+msgid "All plugin tools are split into several panels, and you access each starting from the right."
+msgstr ""
+
+#: forms/tools.php:7
+msgid "Clear Cache"
+msgstr ""
+
+#: forms/tools.php:9
+msgid "Remove all cached data including built styles and fonts."
+msgstr ""
+
+#: forms/tools.php:11
+msgid "Export Settings"
+msgstr ""
+
+#: forms/tools.php:12
+msgid "Export"
+msgstr ""
+
+#: forms/tools.php:13
+msgid "Export all plugin settings into file."
+msgstr ""
+
+#: forms/tools.php:15
+msgid "Import Settings"
+msgstr ""
+
+#: forms/tools.php:16
+msgid "Import"
+msgstr ""
+
+#: forms/tools.php:17
+msgid "Import all plugin settings from export file."
+msgstr ""
+
+#: forms/tools.php:19
+msgid "Remove Settings"
+msgstr ""
+
+#: forms/tools.php:20
+#: grids/include-fonts.php:42
+msgid "Remove"
+msgstr ""
+
+#: forms/tools.php:21
+msgid "Remove selected plugin settings and information."
+msgstr ""
+
+#: forms/typekit.php:9
+msgid "TypeKit Kits"
+msgstr ""
+
+#: forms/typekit.php:12
+msgid "You can list available TypeKit kits and configure them for embedding."
+msgstr ""
+
+#: forms/update.php:15
+msgid "Update"
+msgstr ""
+
+#: forms/update.php:18
+msgid "Before you continue, make sure plugin was successfully updated."
+msgstr ""
+
+#: forms/update.php:32
+msgid "Update completed."
+msgstr ""
+
+#: forms/upload.php:9
+msgid "Fonts Upload"
+msgstr ""
+
+#: forms/upload.php:12
+msgid "You can upload and list local @fontface web fonts available for use on the website."
+msgstr ""
+
+#: grids/include-fonts.php:24
+msgid "Provider"
+msgstr ""
+
+#: grids/include-fonts.php:26
+msgid "Font Preview"
+msgstr ""
+
+#: grids/include-fonts.php:27
+msgid "Weights"
+msgstr ""
+
+#: grids/include-fonts.php:28
+msgid "CSS Property"
+msgstr ""
+
+#: themes/twentyeleven/fonts-box.php:8
+#: themes/twentyfifteen/fonts-box.php:8
+#: themes/twentyfourteen/fonts-box.php:8
+#: themes/twentyten/fonts-box.php:8
+#: themes/twentythirteen/fonts-box.php:8
+#: themes/twentytwelve/fonts-box.php:8
+msgid "Site Title"
+msgstr ""
+
+#: themes/twentyeleven/fonts-box.php:9
+#: themes/twentyfifteen/fonts-box.php:9
+#: themes/twentyfourteen/fonts-box.php:9
+#: themes/twentyten/fonts-box.php:9
+#: themes/twentythirteen/fonts-box.php:9
+#: themes/twentytwelve/fonts-box.php:9
+msgid "Site Description"
+msgstr ""
+
+#: themes/twentyeleven/fonts-box.php:10
+#: themes/twentyfifteen/fonts-box.php:10
+#: themes/twentyfourteen/fonts-box.php:10
+#: themes/twentyten/fonts-box.php:10
+#: themes/twentythirteen/fonts-box.php:10
+#: themes/twentytwelve/fonts-box.php:10
+msgid "Entry Title"
+msgstr ""
+
+#: themes/twentyeleven/fonts-box.php:11
+#: themes/twentyfifteen/fonts-box.php:11
+#: themes/twentyten/fonts-box.php:11
+#: themes/twentythirteen/fonts-box.php:11
+#: themes/twentytwelve/fonts-box.php:11
+msgid "Widget Title"
+msgstr ""
+
+#: themes/twentyfifteen/fonts-box.php:12
+msgid "Entry Footer"
+msgstr ""
+
+#: themes/twentyfourteen/fonts-box.php:11
+msgid "Primary Widget Title"
+msgstr ""
+
+#: themes/twentyfourteen/fonts-box.php:12
+msgid "Content Widget Title"
+msgstr ""
+
